@@ -7469,7 +7469,7 @@
   .frame010p-r-o-f-i-l-echeckouthistory-text22 {
     text-decoration: UNDERLINE;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-frame01a-homepageloggedin-p-r-o-f-i-l-e {
+  .frame01a-homepageloggedinprofileframe01a-homepageloggedinprofile {
     width: 100%;
     height: 1024px;
     display: flex;
@@ -7480,7 +7480,7 @@
     border-color: transparent;
     background-color: rgba(255, 255, 255, 1);
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-frame24 {
+  .frame01a-homepageloggedinprofileframe24 {
     top: 362px;
     left: 108px;
     width: 903px;
@@ -7492,7 +7492,7 @@
     flex-shrink: 0;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-rectangle25 {
+  .frame01a-homepageloggedinprofilerectangle25 {
     top: 0px;
     left: 0px;
     width: 903px;
@@ -7500,7 +7500,7 @@
     position: absolute;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group1274 {
+  .frame01a-homepageloggedinprofilegroup1274 {
     top: 141px;
     left: 61px;
     width: 782px;
@@ -7522,7 +7522,7 @@
     justify-content: flex-start;
     background-color: rgba(102, 103, 171, 0.5);
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text {
+  .frame01a-homepageloggedinprofiletext {
     top: 15px;
     left: 268px;
     color: rgba(0, 0, 0, 1);
@@ -7539,7 +7539,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group1275 {
+  .frame01a-homepageloggedinprofilegroup1275 {
     top: 239px;
     left: 61px;
     width: 782px;
@@ -7561,7 +7561,7 @@
     justify-content: flex-start;
     background-color: rgba(102, 103, 171, 0.5);
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text02 {
+  .frame01a-homepageloggedinprofiletext02 {
     top: 15px;
     left: 268px;
     color: rgba(0, 0, 0, 1);
@@ -7578,7 +7578,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text04 {
+  .frame01a-homepageloggedinprofiletext04 {
     top: 523px;
     left: 138px;
     color: rgba(0, 0, 0, 1);
@@ -7597,16 +7597,16 @@
     margin-bottom: 0;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text05 {
+  .frame01a-homepageloggedinprofiletext05 {
     text-decoration: UNDERLINE;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text09 {
+  .frame01a-homepageloggedinprofiletext09 {
     text-decoration: NONE;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text10 {
+  .frame01a-homepageloggedinprofiletext10 {
     text-decoration: UNDERLINE;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group2 {
+  .frame01a-homepageloggedinprofilegroup2 {
     top: 55px;
     left: 58px;
     width: 196px;
@@ -7628,7 +7628,7 @@
     justify-content: flex-start;
     background-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-maskgroup {
+  .frame01a-homepageloggedinprofilemaskgroup {
     top: 0px;
     left: 0px;
     width: 196px;
@@ -7648,7 +7648,7 @@
     justify-content: flex-start;
     background-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-rectangle2 {
+  .frame01a-homepageloggedinprofilerectangle2 {
     top: 0px;
     left: 0px;
     width: 196px;
@@ -7656,7 +7656,7 @@
     position: absolute;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-rectangle8 {
+  .frame01a-homepageloggedinprofilerectangle8 {
     top: 158.43016052246094px;
     left: 30.659217834472656px;
     width: 140px;
@@ -7664,7 +7664,7 @@
     position: absolute;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-rectangle1 {
+  .frame01a-homepageloggedinprofilerectangle1 {
     top: 238px;
     left: -117px;
     width: 1583px;
@@ -7672,7 +7672,7 @@
     position: absolute;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text11 {
+  .frame01a-homepageloggedinprofiletext11 {
     top: 90px;
     left: 195px;
     color: rgba(0, 0, 0, 1);
@@ -7691,7 +7691,7 @@
     margin-bottom: 0;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group5 {
+  .frame01a-homepageloggedinprofilegroup5 {
     top: 49px;
     left: 928px;
     width: 418px;
@@ -7713,7 +7713,7 @@
     justify-content: flex-start;
     background-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group3 {
+  .frame01a-homepageloggedinprofilegroup3 {
     top: 0px;
     left: 0px;
     width: 418px;
@@ -7733,7 +7733,7 @@
     justify-content: flex-start;
     background-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text16 {
+  .frame01a-homepageloggedinprofiletext16 {
     color: rgba(0, 0, 0, 1);
     width: 106px;
     height: auto;
@@ -7748,7 +7748,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text18 {
+  .frame01a-homepageloggedinprofiletext18 {
     left: 106px;
     color: rgba(0, 0, 0, 1);
     width: 118px;
@@ -7764,7 +7764,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text20 {
+  .frame01a-homepageloggedinprofiletext20 {
     left: 337px;
     color: rgba(0, 0, 0, 1);
     width: 81px;
@@ -7780,7 +7780,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text22 {
+  .frame01a-homepageloggedinprofiletext22 {
     left: 238px;
     color: rgba(102, 103, 171, 1);
     width: 93px;
@@ -7796,7 +7796,7 @@
     font-stretch: normal;
     text-decoration: underline;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group4 {
+  .frame01a-homepageloggedinprofilegroup4 {
     top: 180px;
     left: 962px;
     width: 384px;
@@ -7818,7 +7818,7 @@
     justify-content: flex-start;
     background-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text24 {
+  .frame01a-homepageloggedinprofiletext24 {
     color: rgba(0, 0, 0, 1);
     width: 198px;
     height: auto;
@@ -7833,7 +7833,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text26 {
+  .frame01a-homepageloggedinprofiletext26 {
     left: 88px;
     color: rgba(0, 0, 0, 1);
     width: 198px;
@@ -7849,7 +7849,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text28 {
+  .frame01a-homepageloggedinprofiletext28 {
     left: 186px;
     color: rgba(0, 0, 0, 1);
     width: 198px;
@@ -7865,7 +7865,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group1272 {
+  .frame01a-homepageloggedinprofilegroup1272 {
     top: 78px;
     left: 1172px;
     width: 80px;
@@ -7887,7 +7887,7 @@
     justify-content: flex-start;
     background-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-frame21 {
+  .frame01a-homepageloggedinprofileframe21 {
     top: 0px;
     left: 0px;
     width: 80px;
@@ -7899,7 +7899,7 @@
     flex-shrink: 0;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-rectangle24 {
+  .frame01a-homepageloggedinprofilerectangle24 {
     top: 4px;
     left: 20px;
     width: 40px;
@@ -7907,7 +7907,7 @@
     position: absolute;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group1273 {
+  .frame01a-homepageloggedinprofilegroup1273 {
     top: 337px;
     left: 1093px;
     width: 188px;
@@ -7929,7 +7929,7 @@
     justify-content: flex-start;
     background-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-frame211 {
+  .frame01a-homepageloggedinprofileframe211 {
     top: 0px;
     left: 0px;
     width: 188px;
@@ -7941,7 +7941,7 @@
     flex-shrink: 0;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-rectangle241 {
+  .frame01a-homepageloggedinprofilerectangle241 {
     top: 222px;
     left: 24px;
     width: 134px;
@@ -7949,7 +7949,7 @@
     position: absolute;
     border-color: transparent;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-group12751 {
+  .frame01a-homepageloggedinprofilegroup12751 {
     top: 518px;
     left: 24px;
     width: 134px;
@@ -7971,7 +7971,7 @@
     justify-content: flex-start;
     background-color: rgba(102, 103, 171, 0.5);
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-text30 {
+  .frame01a-homepageloggedinprofiletext30 {
     left: 39px;
     color: rgba(255, 255, 255, 1);
     width: 66px;
@@ -7987,7 +7987,7 @@
     font-stretch: normal;
     text-decoration: none;
   }
-  .frame01a-homepageloggedin-p-r-o-f-i-l-e-ellipse4 {
+  .frame01a-homepageloggedinprofileellipse4 {
     top: 25px;
     left: 3px;
     width: 176px;
